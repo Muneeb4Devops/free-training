@@ -5,4 +5,5 @@ git remote -v
 git pull
 git fetch
 git push
-clone vs frok
+clone vs fork
+git and git hub fundamentals completed successfully
